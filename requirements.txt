@@ -1,0 +1,2 @@
+requests==2.32.3
+fastapi[all]==0.115.3
